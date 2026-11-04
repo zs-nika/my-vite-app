@@ -17,3 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 # my-vite-app
 # my-vite-app
 # first-app
+# my-first-vite-app
